@@ -66,6 +66,7 @@ Certified **Salesforce Agentforce Specialist** and **Oracle Certified Java SE 8 
 `LWC` `Apex` `Tooling API` `Named Credentials` `Connected App` `OAuth 2.0` `Lightning App Builder`
 
 🔗 [View Repository](https://github.com/PatelYug33/org-cleanup-dashboard)
+
 ---
 
 ### ⚡ Salesforce Event Management System
@@ -104,6 +105,7 @@ Certified **Salesforce Agentforce Specialist** and **Oracle Certified Java SE 8 
 `Java` `Spring Boot` `JDBC` `MySQL` `JavaMail` `HTML` `CSS`
 
 🔗 [View Repository](https://github.com/PatelYug33/whats_inside)
+
 ---
 
 ## Experience
