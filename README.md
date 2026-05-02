@@ -33,7 +33,7 @@ Certified **Salesforce Agentforce Specialist** and **Oracle Certified Java SE 8 
 ![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=flat&logo=salesforce&logoColor=white)
 ![Salesforce Admin](https://img.shields.io/badge/Salesforce_Admin-00A1E0?style=flat&logo=salesforce&logoColor=white)
 ![Agentforce](https://img.shields.io/badge/Agentforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
-![Flows](https://img.shields.io/badge/Salesforce_Flows-00A1E0?style=flat&logo=salesforce&logoColor=white)
+
 
 ### ☕ Java & Backend
 ![Java](https://img.shields.io/badge/Java_SE_8-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -43,10 +43,8 @@ Certified **Salesforce Agentforce Specialist** and **Oracle Certified Java SE 8 
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat&logo=java&logoColor=white)
 
 ### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
@@ -55,18 +53,31 @@ Certified **Salesforce Agentforce Specialist** and **Oracle Certified Java SE 8 
 
 ## Projects
 
+### 🧹 Org Cleanup Dashboard
+> Salesforce utility to detect and remove unused components from your org
+
+- Detects unused **Apex Classes, LWC Bundles, Files, Static Resources** and Assets
+- Provides option to **delete unused components** directly from the dashboard
+- Built as a custom **LWC component** added via Lightning App Builder
+- Uses **Tooling API** via Named Credential for secure org metadata access
+- Connected App with **OAuth 2.0** authentication (Consumer Key + Secret)
+- Helps maintain a **clean and optimized Salesforce org**
+
+`LWC` `Apex` `Tooling API` `Named Credentials` `Connected App` `OAuth 2.0` `Lightning App Builder`
+
+🔗 [View Repository](https://github.com/PatelYug33/org-cleanup-dashboard)
+---
+
 ### ⚡ Salesforce Event Management System
-> End-to-end event management built entirely on the Salesforce platform
-
-- Designed custom objects — **Event, Registration, Ticket, Payment** with relationships
-- Built **LWC components** for event display, modal registration, ticket selection
-- Implemented **dynamic pricing** logic based on ticket type
-- Complete flow: **Registration → Basket → Payment → Confirmation**
-- Image upload for events using **ContentDocument API**
-- **Apex controllers** handling all backend data processing and business logic
-
-`Apex` `LWC` `SOQL` `Custom Objects` `ContentDocument API` `Salesforce Flows` `JavaScript`
-
+> 🏢 Professional Work · Nsforce Software Pvt Ltd 
+ 
+- Built end-to-end event management solution on the Salesforce platform
+- Worked across full development lifecycle — custom data modelling, UI, backend logic
+- Implemented complete user journey flow from registration to confirmation
+- Developed using **Apex, LWC, SOQL** and Salesforce platform capabilities
+ 
+`Apex` `LWC` `SOQL` `Custom Objects` `ContentDocument API` `JavaScript`
+ 
 ---
 
 ### 🧾 Expense Tracker System
@@ -92,6 +103,7 @@ Certified **Salesforce Agentforce Specialist** and **Oracle Certified Java SE 8 
 
 `Java` `Spring Boot` `JDBC` `MySQL` `JavaMail` `HTML` `CSS`
 
+🔗 [View Repository](https://github.com/PatelYug33/whats_inside)
 ---
 
 ## Experience
@@ -111,6 +123,3 @@ Certified **Salesforce Agentforce Specialist** and **Oracle Certified Java SE 8 
 **Master of Computer Applications (MCA)**  
 Gujarat Technological University · 2023 – 2025
 
----
-
-*Open to Salesforce Developer opportunities · Available in 1 month*
