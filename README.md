@@ -94,7 +94,7 @@ Certified **Salesforce Agentforce Specialist** and **Oracle Certified Java SE 8 
 
 ---
 
-### 🥗 WhatsInside – Ingredient Safety System
+### 🥗 WhatsInside – Ingredient Search & Safety Management System
 > Food ingredient safety app with secure authentication
 
 - User/admin login with **role-based access control**
